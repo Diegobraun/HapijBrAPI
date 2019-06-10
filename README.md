@@ -1,2 +1,2 @@
 # HapijBrAPI
-A api created that have a principal concept called "orm data automatization"
+A api created by a principal concept called "orm data automatization"
